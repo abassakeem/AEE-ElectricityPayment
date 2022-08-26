@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    
+}
+
+
+.section{
+    background-color: #0099ff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3em 0 0 0;
+    
+}
+.brand-subject {
+    font-size: 1em;
+    
+   
+    font-family: 'Girassol', cursive;
+    font-family: 'Goblin One', cursive;
+    font-family: 'Mulish', sans-serif;
+
+    
+}
+
+.brand-name{
+    font-size: 6em;
+    font-family: 'Girassol', cursive;
+    font-family: 'Goblin One', cursive;
+    font-family: 'Orelega One', cursive;
+    font-weight: bold;
+}
+.sign-up-btn:hover, .sign-in-btn:hover{
+    color:#0099ff;
+}
+
+
+.feature-icon{
+    height: 50px;
+    width: 50px;
+}
+.section2{
+    margin-bottom: 5em;
+}
+.section2 h4{
+    color:#0099ff;
+    font-size: 1em;
+    font-family: 'Girassol', cursive;
+    font-family: 'Goblin One', cursive;
+    font-family: 'Mulish', sans-serif;
+}
+.section2 h2{
+    font-weight: bolder;
+    font-size: 1.3em;
+}
+
+.links{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 1em;
+}
+.links:hover{
+    color:#0099ff
+}
+.section2 .row p{
+    color: #677294;
+    font-size: 0.7em;
+}
+
+.section3 img{
+    width: 100%;
+    height: auto;
+}
+.section3 h2{
+    font-weight: bolder;
+    font-size: 1.5em;
+    font-family: 'Girassol', cursive;
+    font-family: 'Goblin One', cursive;
+    font-family: 'Mulish', sans-serif;
+
+}
+.section3 p{
+    color: #677294;
+    font-size: 0.7em;
+}
+footer{
+    font-size: 1em;
+    color:#fff;
+    background-color: #0099ff;
+    padding: 0 0 5px 0;
+    height: 25px;
+    font-size: 0.75em;
+}

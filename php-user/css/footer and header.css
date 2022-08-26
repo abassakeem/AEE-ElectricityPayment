@@ -1,0 +1,39 @@
+.sign-in-logo{
+    color:#198fff;
+    font-family: 'Girassol', cursive;
+    font-family: 'Goblin One', cursive;
+    font-family: 'Orelega One', cursive;
+    font-size: 4em;
+    
+}
+a{
+    text-decoration: none;
+}
+footer{
+    font-size: 1em;
+    color:#fff;
+    background-color: #0099ff;
+    padding: 0 0 5px 0;
+    height: 25px;
+    font-size: 0.75em;
+    margin-top: 3em;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+i {
+    
+    position: absolute;
+    margin-left: 100px;
+    top: 25px;
+    cursor: pointer;
+
+}
+
+.help-section1{
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 2em;
+}
+.log-out-btn{
+    margin-left: 10px;
+}
